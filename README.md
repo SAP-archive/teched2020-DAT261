@@ -1,4 +1,4 @@
-# Session ID - Session Title
+# DAT261 - Performance Monitoring and Operating with SAP HANA and SAP HANA Cloud
 
 ## Description
 
