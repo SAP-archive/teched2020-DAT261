@@ -1,38 +1,33 @@
-# DAT261 - Performance Monitoring and Operating with SAP HANA and SAP HANA Cloud
+# DAT261 - Administer and Operate SAP HANA in the Cloud
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2020 session called Session ID - Session Title. 
+This repository contains the material for the SAP TechEd 2020 session called DAT261 - Administer and Operate SAP HANA in the Cloud. 
 
 ## Overview
 
-This session introduces attendees to...
+This hands-on session provides an end-to-end picture of the operations required for running SAP HANA in the cloud, focusing on day-to-day administration and maintenance topics. Through hands-on exercises, we explore the different tools you can use to analyze and resolve performance and stability issues that are typical of an SAP HANA database running on the SAP HANA Cloud service.
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+This session assumes that you already have an SAP HANA Cloud Trial account. If that's the case, proceed to Chapter 1.
+
+If you do not have an SAP HANA Cloud Trial account, you can register for free at https://www.sap.com/cmp/td/sap-hana-cloud-trial.html. Once you have successfully registered and your account is set up, perform the following steps:
+
+1. Enter the "trial" subaccount
+2. Enter the "dev" space
+3. Click "SAP HANA Cloud" from the left navigation bar
+4. Click the button "Create Instance" in the top right to invoke the Create Instance wizard
+5. Enter "TechEd" for the instance name
+6. Enter and confirm your administrator password - please remember it!
+7. Click the button "Create Instance" at the bottom
+
+A new SAP HANA Cloud instance will be created - this process will take approx. 25 minutes. You may need to refresh the page to see the instance as "Running" (as opposed to "Creating").
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
-
-- [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
-
-
-**OR** Link to the PDF document stored in your github repo for example...
-
-Start the exercises [here](exercises/myPDFDoc.pdf).
+Start the exercises [here](DAT261.pdf).
     
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
-
 **IMPORTANT**
 
 Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
