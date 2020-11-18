@@ -28,10 +28,6 @@ A new SAP HANA Cloud instance will be created - this process will take approx. 2
 
 Start the exercises [here](DAT261.pdf).
     
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
-
 ## How to obtain support
 
 Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
