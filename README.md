@@ -17,7 +17,7 @@ If you do not have an SAP HANA Cloud Trial account, you can register for free at
 1. Enter the "trial" subaccount
 2. Enter the "dev" space
 3. Click "SAP HANA Cloud" from the left navigation bar
-4. Click the button "Create Instance" in the top right to invoke the Create Instance wizard
+4. Click the button "Create Database" in the top right to invoke the Create Instance wizard
 5. Enter "TechEd" for the instance name
 6. Enter and confirm your administrator password - please remember it!
 7. Click the button "Create Instance" at the bottom
