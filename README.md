@@ -1,5 +1,7 @@
 # DAT261 - Administer and Operate SAP HANA in the Cloud
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2020-DAT261)](https://api.reuse.software/info/github.com/SAP-samples/teched2020-DAT261)
+
 ## Description
 
 This repository contains the material for the SAP TechEd 2020 session called DAT261 - Administer and Operate SAP HANA in the Cloud. 
